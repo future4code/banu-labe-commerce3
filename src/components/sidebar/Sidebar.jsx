@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import Carrinho from '../../img/carrinho.png'
 
 const DivPrincipal = styled.div`
     width: 100vw;
@@ -46,7 +45,6 @@ class  Sidebar extends React.Component {
                     <li> MOLETONS</li>
                     <li> MEIAS</li>
                 </ListaSidebar>
-                <img src={Carrinho} alt="imagem carrinho" />
                 <select name="" id="">
                     <option value="menor preço">menor preço</option>
                     <option value="maior preço">maior preço</option>
