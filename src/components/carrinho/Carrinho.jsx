@@ -1,15 +1,16 @@
 import React from 'react';
 import Sidebar from './components/sidebar/Sidebar';
 import Footer from './components/footer/Footer';
-import Carrinho from '../../img/carrinho.png'
 
 class  Sidebar extends React.Component {
 
+    
     render(){
     return (
         <DivPrincipal>
+            <Sidebar />  
             <div>
-                <img src={Carrinho} alt="imagem carrinho" />
+                <p>Estou aqui e sou o  carrinho</p>
             </div>
             <Footer />
         </DivPrincipal>
