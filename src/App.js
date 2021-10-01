@@ -5,7 +5,6 @@ import ListaProdutos from './components/Produtos/ListaProdutos';
 import Footer from './components/footer/Footer';
 import Carrinho from './components/carrinho/Carrinho';
 
-
 function App() {
   return (
     <div>
