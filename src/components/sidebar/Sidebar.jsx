@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import car from '../../img/carrinho.png';
-
-
+import car from '../img/carrinho.png';
 
 const DivPrincipal = styled.div`
     width: 100vw;
