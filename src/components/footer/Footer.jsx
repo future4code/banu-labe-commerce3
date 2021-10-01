@@ -8,7 +8,7 @@ const DivPrincipal = styled.div`
     background-color: #000000;
     color: #ffffff;
 `
-class  Footer extends React.Component {
+class Footer extends React.Component {
     render(){
     return (
         <DivPrincipal>

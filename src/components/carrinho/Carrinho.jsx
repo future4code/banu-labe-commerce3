@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Car from '../img/carrinho.png'
 
 const DivPrincipal = styled.div `
 height: 100vh;
@@ -14,12 +15,23 @@ padding: 10px;
 width: 300px;
 `;
 
+const ImagemCarrinho = styled.img`
+width: 26px;
+height: 26px;
+margin-right: 10px;
+`
+const CarrinhoDeCompras = styled.span`
+font-size: 20px;
+`
+
+
 class Carrinho extends React.Component {
     render(){
     return (
         <DivPrincipal>
             <div>
-                <p>Estou aqui e sou o carrinho da Ju, diretamente da cidade da Xuxa!</p>
+                <ImagemCarrinho src={Car} />
+                <CarrinhoDeCompras>Carrinho de compras </CarrinhoDeCompras>
             </div>
         </DivPrincipal>
     )}
