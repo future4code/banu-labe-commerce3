@@ -6,19 +6,23 @@ const DivPrincipal = styled.div`
     flex-direction: column;
     width: 20vw;
     align-items: center;
-`;
+img {
+    width: 15vw;
+    height: 15vh;
+    padding: 1.5em;
+}`;
 
-class  Produtos extends React.Component {
+class EstruturaProduto extends React.Component {
     render(){
     return (
         <DivPrincipal>
-            <img src="" alt="" />
-            <p>Nome do Produto</p>
-            <p>R$1.000,00</p> 
+            <img src={this.props.img} alt="" />
+            <p>{this.props.produto}</p>
+            <p>{this.props.preço}</p> 
             <button>adicionar produto</button>
         </DivPrincipal>
     )}
 };
 
-export default Produtos; 
+export default EstruturaProduto; 
 

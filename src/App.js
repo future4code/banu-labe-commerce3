@@ -1,17 +1,16 @@
 import React from 'react';
+//import styled from 'styled-components';
 import Sidebar from './components/sidebar/Sidebar';
-import Produtos from './components/Produtos/Produtos';
+import ListaProdutos from './components/Produtos/ListaProdutos';
 import Footer from './components/footer/Footer';
+import Carrinho from './components/carrinho/Carrinho';
 
 function App() {
   return (
     <div>
       <Sidebar />
-      <Produtos  />
-      <Produtos />
-      <Produtos />
-      <Produtos />
-      <Produtos />
+      <Carrinho />
+      <ListaProdutos /> 
       <Footer />
     </div>
   );
