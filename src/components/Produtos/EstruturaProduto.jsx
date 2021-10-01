@@ -8,9 +8,14 @@ const DivPrincipal = styled.div`
     align-items: center;
 img {
     width: 15vw;
-    height: 15vh;
+    height: 26vh;
     padding: 1.5em;
 }`;
+
+const AdicionarProduto = styled.button`
+    margin: 1.5em;
+    margin-bottom: 4em;
+`
 
 class EstruturaProduto extends React.Component {
     render(){
@@ -19,7 +24,7 @@ class EstruturaProduto extends React.Component {
             <img src={this.props.img} alt="" />
             <p>{this.props.produto}</p>
             <p>{this.props.preço}</p> 
-            <button>adicionar produto</button>
+            <AdicionarProduto>adicionar produto</AdicionarProduto>
         </DivPrincipal>
     )}
 };
