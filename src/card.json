@@ -1,0 +1,53 @@
+[
+    {
+        "id":"1",
+        "title":"Camiseta astronauta",
+        "price": 1500
+    },
+    {
+        "id":"2",
+        "title":"Camiseta planeta",
+        "price": 2500
+    },
+    {
+        "id":"3",
+        "title":"Moletom planetas",
+        "price": 3500
+    },
+    {
+        "id":"4",
+        "title":"Camiseta Up altas aventuras",
+        "price": 4500
+    },
+    {
+        "id":"5",
+        "title":"Moletom planeta",
+        "price": 5500
+    },
+    {
+        "id":"6",
+        "title":"Meia NASA",
+        "price": 6500
+    },
+    {
+        "id":"7",
+        "title":"Camiseta ET",
+        "price": 7500
+    },
+    {
+        "id":"8",
+        "title":"Moletom space bulgariasat -1",
+        "price": 8500
+    },
+    {
+        "id":"9",
+        "title":"Meia ET",
+        "price": 1500
+    },
+    {
+        "id":"10",
+        "title":"Camiseta foguete",
+        "price": 1500
+    }
+    
+]
