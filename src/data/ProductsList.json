@@ -1,0 +1,75 @@
+[
+    {
+        "id":"1",
+        "title":"Camiseta astronauta",
+        "price": 1500,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/sku/33311/3/33311370_1GG.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Camiseta planeta",
+        "price": 2500,
+        "image": "https://www.dhresource.com/0x0/f2/albu/g9/M01/EC/97/rBVaVVwzTQeAMNziAAFMHQaMNjc623.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Moletom planetas",
+        "price": 3500,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_600600-MLB31124133696_062019-O.jpg"
+    },
+    {
+        "id":"4",
+        "title":"Camiseta astronauta com planetas",
+        "price": 4500,
+        "image": "https://img.elo7.com.br/product/zoom/3279761/camiseta-astronauta-com-baloes-astronauta.jpg"
+    },
+    {
+        "id":"5",
+        "title":"Moletom planeta",
+        "price": 5500,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img1/105104/7/105104754_1GG.jpg"
+    },
+    {
+        "id":"6",
+        "title":"Meias NASA",
+        "price": 6500,
+        "image": "https://www.merchandisingplaza.com.br/384962/2/Meias-NASA-Meia-NASA-l.jpg"
+    },
+    {
+        "id":"7",
+        "title":"Camiseta ET",
+        "price": 7500,
+        "image": "https://images-submarino.b2w.io/produtos/01/00/img/1561270/2/1561270297_1GG.jpg"
+    },
+    {
+        "id":"8",
+        "title":"Moletom astronauta",
+        "price": 8500,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_961634-MLB41851081506_052020-O.jpg"
+    },
+    {
+        "id":"9",
+        "title":"Meia ET",
+        "price": 1500,
+        "image": "https://images.tcdn.com.br/img/img_prod/651663/meia_e_t_2_489_1_20210216135601.jpg"
+    },
+    {
+        "id":"10",
+        "title":"Camiseta foguete",
+        "price": 1500,
+        "image": "https://images.tcdn.com.br/img/img_prod/742661/camiseta_infantil_masculina_preta_foguete_2165_1_20201022092501.jpg"
+    },
+    {
+        "id":"11",
+        "title":"Moletom galáxia",
+        "price": 1500,
+        "image": "https://m.media-amazon.com/images/I/71hcehJsjEL._AC_SL1200_.jpg"
+    },
+    {
+        "id":"12",
+        "title":"Moletom ET",
+        "price": 1500,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/images/99650/9/99650912_1GG.jpg"
+    }
+    
+]
